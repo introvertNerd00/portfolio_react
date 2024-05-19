@@ -1,4 +1,4 @@
-Personal Portfolio Website
+
 Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a web developer.
 
 =--------------------=
@@ -28,10 +28,14 @@ Contact: Feel free to connect with me through the contact form or the provided s
     Additional Notes
 =---------------------=
 </br>Responsive Design: This portfolio is designed to work seamlessly on different screen sizes, including desktops, tablets, and mobile devices.
+
 Technologies: The website is built using React, a popular JavaScript library for creating user interfaces, and Bootstrap, a CSS framework for styling and layout.
+
 Open Source: The code for this portfolio is available on GitHub. Feel free to explore, fork, or contribute!
 Feedback
+
 I'm always looking for feedback to improve my work. If you have any suggestions or comments, please don't hesitate to reach out.
 
 Let's Connect!
+
 I'm excited to connect with you and discuss potential opportunities. Feel free to use the contact form or reach out to me on social media.
