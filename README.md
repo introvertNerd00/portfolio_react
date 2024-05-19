@@ -2,9 +2,9 @@ Personal Portfolio Website
 Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a web developer.
 
 =--------------------=
-      Navigation
+     #Navigation
 =--------------------=
-Header: The top navigation bar provides links to different sections of the site:
+</br>Header: The top navigation bar provides links to different sections of the site:
 
 About: Get to know me, my background, and my passion for development.
 
