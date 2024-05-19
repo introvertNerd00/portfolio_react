@@ -27,7 +27,7 @@ Contact: Feel free to connect with me through the contact form or the provided s
 =---------------------=
     Additional Notes
 =---------------------=
-Responsive Design: This portfolio is designed to work seamlessly on different screen sizes, including desktops, tablets, and mobile devices.
+</br>Responsive Design: This portfolio is designed to work seamlessly on different screen sizes, including desktops, tablets, and mobile devices.
 Technologies: The website is built using React, a popular JavaScript library for creating user interfaces, and Bootstrap, a CSS framework for styling and layout.
 Open Source: The code for this portfolio is available on GitHub. Feel free to explore, fork, or contribute!
 Feedback
