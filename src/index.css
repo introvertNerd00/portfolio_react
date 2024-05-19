@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.App{
+    width: 100vw;
+    min-height: 100vh;
+    background-color:azure;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar{
+    border-radius: 2em;
+    box-shadow: 2px 1px#333;
+    margin: 1em;
+}
+
+.links{
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+}
+.link:hover{
+    text-decoration: underline;
+    color: rgb(79, 25, 25);
+
+}
+
+.intro{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+/* Contact.css */
+
+.contact-section {
+    padding: 40px 0; /* Top/bottom padding, adjust as needed */
+    background-color: #f8f9fa; /* Optional light background color */
+  }
+  
+  .contact-section h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .social-icons {
+    text-align: center; /* Center icons */
+    margin-top: 30px;
+  }
+  
+  .social-icons a {
+    display: inline-block; /* Allow spacing around icons */
+    margin: 0 10px;
+    color: #333; /* Icon color */
+    font-size: 24px; /* Adjust icon size */
+    transition: color 0.3s ease; /* Add smooth color transition on hover */
+  }
+  
+  .social-icons a:hover {
+    color: #007bff; /* Change icon color on hover */
+  }
+  .button-btn{
+    margin-top: 1em;
+    margin-left: 45%;
+    margin-right: 45%;
+  }
+  
+  /* Optional Responsive Styles */
+  @media (max-width: 768px) {
+    .contact-section {
+      padding: 20px 0; /* Reduce padding on smaller screens */
+    }
+  }
+  
+ 
+/*Introduction*/
+
+#introduction {
+    padding: 40px 0; /* Top/bottom padding, adjust as needed */
+    background-color: #f8f9fa; /* Optional light background color */
+  }
+  
+  .profile-image {
+    width: 200px; /* Adjust as needed */
+    height: 200px;
+    margin: 0 auto; /* Center the image */
+    object-fit: cover; 
+  
+  }
+  
+  .intro-text {
+    text-align: justify; /* Optional for aligning the text */
+    font-size: 18px;  /* Adjust as needed */
+    line-height: 1.6;  /* Adjust as needed */
+  }
+  
+  
+  /* Media Query for Smaller Screens (Tablets and Below) */
+  @media (max-width: 768px) {
+    #introduction {
+      text-align: center;
+    }
+  
+    .profile-image {
+      margin-bottom: 20px; /* Add space below the image on smaller screens */
+    }
+  }
+  .button-bt{
+
+    margin-left: 35%;
+  }
+
+
+  /* Skills.css */
+#skills {
+    padding: 40px 0;
+    background-color: #f8f9fa;
+  }
+  
+  #skills h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  #skills h5 {
+    margin-bottom: 10px;
+  }
+
+  
+  /* Projects.css */
+#projects {
+    padding: 40px 0;
+    background-color: #f8f9fa; /* Optional background color */
+  }
+  
+  #projects h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+
+  .project-card {
+    max-height: 500px; /* Set a fixed height */
+    /* Cover the container, maintaining aspect ratio */
+  }
+  .project-card .card-img-top {
+    height: 250px; /* Set a fixed height */
+    object-fit: cover; /* Cover the container, maintaining aspect ratio */
+  }
+  
